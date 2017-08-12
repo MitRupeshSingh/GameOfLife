@@ -1,5 +1,9 @@
 # GameOfLife
 
+
+This project is easy to run as it does not have any dependencies.
+Just run the project or main class(GameOfLife.java).
+
 It is a popular Game Of Life project where we have a single class to perform all the operations.
 
 Input from the user is taken in the form as:
